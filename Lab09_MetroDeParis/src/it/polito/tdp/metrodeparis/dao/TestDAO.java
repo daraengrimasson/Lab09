@@ -11,8 +11,8 @@ public class TestDAO {
 		MetroDAO metroDAO = new MetroDAO();
 		
 		System.out.println("Lista fermate");
-		List<Fermata> fermate = metroDAO.getAllFermate();
-		System.out.println(fermate);
+		//List<Fermata> fermate = metroDAO.getAllFermate();
+		//System.out.println(fermate);
 	}
 
 }
